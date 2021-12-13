@@ -1,0 +1,11 @@
+.div1{
+    margin: 100px;
+width: 250px;
+height: 250px;
+background:#34e5eb ;
+
+}
+.div1:hover{
+transform: rotate(150deg);
+transition: 2s;
+}
